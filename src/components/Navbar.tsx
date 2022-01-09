@@ -46,6 +46,7 @@ const Navbar = () => {
           alignItems='center'
           width={1}
           py={2}
+          flexWrap='wrap'
         >
           <Typography variant='h6'>My movie</Typography>
           <Box textAlign='center'>
